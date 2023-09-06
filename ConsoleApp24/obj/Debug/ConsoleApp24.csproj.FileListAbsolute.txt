@@ -1,0 +1,6 @@
+D:\DAY5\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+D:\DAY5\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+D:\DAY5\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+D:\DAY5\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+D:\DAY5\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+D:\DAY5\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
